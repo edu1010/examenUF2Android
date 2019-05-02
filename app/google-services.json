@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337641378920",
+    "firebase_url": "https://examen2-eab49.firebaseio.com",
+    "project_id": "examen2-eab49",
+    "storage_bucket": "examen2-eab49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337641378920:android:50c364f3f277ba8a",
+        "android_client_info": {
+          "package_name": "com.tiempociudades.edu1010.examen2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337641378920-3huqqbcj8864unld7rpgr7og64hrhbtg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tiempociudades.edu1010.examen2",
+            "certificate_hash": "d512b59ce17983e3928e60a424d19eed3391118c"
+          }
+        },
+        {
+          "client_id": "337641378920-b6mo2attsc5p2r0ika1391blt733m07h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT5AdDMX5sX01qcUdStfSwCIjDXhf1xic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337641378920-b6mo2attsc5p2r0ika1391blt733m07h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
